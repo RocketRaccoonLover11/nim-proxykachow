@@ -35,7 +35,7 @@ const MODEL_MAPPING = {
   'gpt-4o': 'meta/llama-3.1-8b-instruct',
   'gemini-pro': 'moonshotai/kimi-k2.5',
   'meta': 'meta/llama-3.1-70b-instruct',
-  'nvidia': 'nvidia/nemotron-3-super-120b-a12b'
+  'nvidia': 'nvidia/nemotron-3-ultra-550b-a55b'
 };
 
 // Root endpoint
