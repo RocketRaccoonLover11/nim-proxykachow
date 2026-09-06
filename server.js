@@ -34,8 +34,8 @@ const MODEL_MAPPING = {
   'gpt-4-turbo': 'deepseek-ai/deepseek-v4-flash-0731',
   'gpt-4o': 'meta/llama-3.1-8b-instruct',
   'gemini-pro': 'minimaxai/minimax-m3',
-  'meta': 'meta/llama-3.1-70b-instruct',
-  'nvidia': 'nvidia/nemotron-3-ultra-550b-a55b'
+  'meta': 'meta/muse-glimmer-30b',
+  'nvidia': 'nvidia/nemotron-3-super-120b-a12b'
 };
 
 // Root endpoint
